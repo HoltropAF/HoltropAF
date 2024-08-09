@@ -1,4 +1,4 @@
-Hi! I am a bioinformatician at the amsterdam university medical hospital, working in both the epidemiology and data science department ([EDS](https://www.vumc.nl/research/overzicht/epidemiologie-en-data-science-eds.htm)) and core facility metabolomics ([CFM](https://www.amc.nl/web/core-facility-metabolomics.htm)).
+Hi! I am a bioinformatician at the amsterdam university medical hospital, working in both the "epidemiology & data science department" ([EDS](https://www.vumc.nl/research/overzicht/epidemiologie-en-data-science-eds.htm)) and "core facility metabolomics" ([CFM](https://www.amc.nl/web/core-facility-metabolomics.htm)).
 
 - 💡 I am currently specializing in processing lipidomics/metabolomics datasets through bioinformatic pipelines, expertise lies in developing advanced tools for data analysis
 
